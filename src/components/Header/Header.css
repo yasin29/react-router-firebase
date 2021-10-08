@@ -1,0 +1,25 @@
+.header a{
+margin-right: 30px;
+text-decoration: none;
+color: white;
+font-size: 2rem;
+}
+.header{
+    background-color:steelblue;
+    padding: 5px;
+    
+}
+
+.header a:hover{
+    background-color:cadetblue;
+    padding: 5px;
+}
+
+.userName{
+    color: white;
+    margin: 10px;
+    text-align: right;
+}
+.header button{
+    background-color:maroon;
+}
